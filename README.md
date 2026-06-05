@@ -63,6 +63,27 @@ The dataset contains loan-related information, including:
 * Loan performance tracking
   
 ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
+
+### 🔹 Dashboard Overview
+![Bank Loan Dashboard Overview](dashboard-overview.jpg)
+This dashboard provides a high-level overview of loan applications, funded amounts, repayments, interest rates, DTI ratios, loan purposes, and state-wise loan distribution.
+
+### 🔹 Loan Performance Analysis
+![Bank Loan Dashboard Analysis](dashboard-summary.jpg)
+This view focuses on Good Loans vs Bad Loans analysis, funded amount tracking, repayment performance, average interest rate, and DTI analysis to evaluate loan portfolio health.
+
+### Dashboard Highlights
+
+* 📈 Monthly Loan Application Trends
+* 💰 Total Funded Amount Analysis
+* 💵 Total Amount Received Tracking
+* 🏦 Good Loan vs Bad Loan Analysis
+* 📍 State-wise Loan Distribution
+* 🏠 Home Ownership Analysis
+* 🎯 Loan Purpose Breakdown
+* 📊 Interest Rate & DTI Analysis
+* 🔍 Interactive Filters & Slicers
 
 ### Bank Loan Analytics Dashboard
 ![Dashboard](Dashboard.png)
